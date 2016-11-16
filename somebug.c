@@ -28,11 +28,6 @@ void SieveOfEratosthenes(int n)
 		cout << p << " ";
 }
 
-void Display(){
-	for (int p=2; p<=n; p++)
-	if (prime[p])
-		cout << p << " ";
-}
 
 // Driver Program to test above function
 int main()
