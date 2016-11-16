@@ -18,7 +18,7 @@ void SieveOfEratosthenes(int n)
 		{
 			// Update all multiples of p
 			for (int i=p*2; i<=n; i += p)
-				prime[i] = true;
+				prime[i] = false;
 		}
 	}
 
