@@ -1,7 +1,7 @@
 #include<ctype.h>
 #include<stdio.h>
 #include<stdlib.h>
-
+//Post.c
 # define M 10
 struct stack
 {
