@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 //Post.c
+//hrfghg
 # define M 10
 struct stack
 {
